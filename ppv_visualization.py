@@ -1,6 +1,4 @@
-# PPV Simulation for At-Home SARS-CoV-2 Test Accuracy
-# Author: Orjada Shkoza (Example)
-# Description: This script visualizes how PPV varies with prevalence and specificity, using Bayes’ Theorem
+
 
 import numpy as np
 import pandas as pd
