@@ -13,4 +13,4 @@ depending on the disease prevalence and specificity of the test.
 - `ppv_plot.png`: Output graph (generated when you run the script)
 
 ## Author
-Orjada Shkoza
+Meilin Kaca
